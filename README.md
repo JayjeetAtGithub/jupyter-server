@@ -1,5 +1,5 @@
 # Instructions
 
 ```
-curl -o- https://raw.githubusercontent.com/JayjeetAtGithub/prometheus-on-baremetal/master/run.sh | bash
+curl -o- https://raw.githubusercontent.com/JayjeetAtGithub/jupyter-server/master/run.sh | bash
 ```
